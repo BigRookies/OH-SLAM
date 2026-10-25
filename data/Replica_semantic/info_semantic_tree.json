@@ -1,0 +1,1736 @@
+{
+  "93_wall": [
+    {
+      "0": "Structural"
+    },
+    {
+      "0": "Boundary"
+    },
+    {
+      "0": "wall"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "40_floor": [
+    {
+      "0": "Structural"
+    },
+    {
+      "0": "Boundary"
+    },
+    {
+      "1": "floor"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "31_ceiling": [
+    {
+      "0": "Structural"
+    },
+    {
+      "0": "Boundary"
+    },
+    {
+      "2": "ceiling"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "97_window": [
+    {
+      "0": "Structural"
+    },
+    {
+      "0": "Boundary"
+    },
+    {
+      "3": "window"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "37_door": [
+    {
+      "0": "Structural"
+    },
+    {
+      "0": "Boundary"
+    },
+    {
+      "4": "door"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "5_beam": [
+    {
+      "0": "Structural"
+    },
+    {
+      "1": "Architecture"
+    },
+    {
+      "0": "beam"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "60_pillar": [
+    {
+      "0": "Structural"
+    },
+    {
+      "1": "Architecture"
+    },
+    {
+      "1": "pillar"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "77_stair": [
+    {
+      "0": "Structural"
+    },
+    {
+      "1": "Architecture"
+    },
+    {
+      "2": "stair"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "56_panel": [
+    {
+      "0": "Structural"
+    },
+    {
+      "1": "Architecture"
+    },
+    {
+      "3": "panel"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "62_pipe": [
+    {
+      "0": "Structural"
+    },
+    {
+      "1": "Architecture"
+    },
+    {
+      "4": "pipe"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "92_vent": [
+    {
+      "0": "Structural"
+    },
+    {
+      "1": "Architecture"
+    },
+    {
+      "5": "vent"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "43_handrail": [
+    {
+      "0": "Structural"
+    },
+    {
+      "1": "Architecture"
+    },
+    {
+      "6": "handrail"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "18_cabinet": [
+    {
+      "1": "Large_Furniture"
+    },
+    {
+      "0": "Storage_Furniture"
+    },
+    {
+      "0": "cabinet"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "2_base-cabinet": [
+    {
+      "1": "Large_Furniture"
+    },
+    {
+      "0": "Storage_Furniture"
+    },
+    {
+      "1": "base-cabinet"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "94_wall-cabinet": [
+    {
+      "1": "Large_Furniture"
+    },
+    {
+      "0": "Storage_Furniture"
+    },
+    {
+      "2": "wall-cabinet"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "96_wardrobe": [
+    {
+      "1": "Large_Furniture"
+    },
+    {
+      "0": "Storage_Furniture"
+    },
+    {
+      "3": "wardrobe"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "71_shelf": [
+    {
+      "1": "Large_Furniture"
+    },
+    {
+      "0": "Storage_Furniture"
+    },
+    {
+      "4": "shelf"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "66_rack": [
+    {
+      "1": "Large_Furniture"
+    },
+    {
+      "0": "Storage_Furniture"
+    },
+    {
+      "5": "rack"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "80_table": [
+    {
+      "1": "Large_Furniture"
+    },
+    {
+      "1": "Support_Furniture"
+    },
+    {
+      "0": "table"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "34_desk": [
+    {
+      "1": "Large_Furniture"
+    },
+    {
+      "1": "Support_Furniture"
+    },
+    {
+      "1": "desk"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "33_countertop": [
+    {
+      "1": "Large_Furniture"
+    },
+    {
+      "1": "Support_Furniture"
+    },
+    {
+      "2": "countertop"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "88_tv-stand": [
+    {
+      "1": "Large_Furniture"
+    },
+    {
+      "1": "Support_Furniture"
+    },
+    {
+      "3": "tv-stand"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "54_nightstand": [
+    {
+      "1": "Large_Furniture"
+    },
+    {
+      "1": "Support_Furniture"
+    },
+    {
+      "4": "nightstand"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "20_chair": [
+    {
+      "1": "Large_Furniture"
+    },
+    {
+      "2": "Seating_Furniture"
+    },
+    {
+      "0": "chair"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "8_bench": [
+    {
+      "1": "Large_Furniture"
+    },
+    {
+      "2": "Seating_Furniture"
+    },
+    {
+      "1": "bench"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "78_stool": [
+    {
+      "1": "Large_Furniture"
+    },
+    {
+      "2": "Seating_Furniture"
+    },
+    {
+      "2": "stool"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "76_sofa": [
+    {
+      "1": "Large_Furniture"
+    },
+    {
+      "2": "Seating_Furniture"
+    },
+    {
+      "3": "sofa"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "7_bed": [
+    {
+      "1": "Large_Furniture"
+    },
+    {
+      "3": "Bed_Furniture"
+    },
+    {
+      "0": "bed"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "6_beanbag": [
+    {
+      "1": "Large_Furniture"
+    },
+    {
+      "3": "Bed_Furniture"
+    },
+    {
+      "1": "beanbag"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "4_bathtub": [
+    {
+      "2": "Bathroom"
+    },
+    {
+      "0": "Bathroom_Fixture"
+    },
+    {
+      "0": "bathtub"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "74_sink": [
+    {
+      "2": "Bathroom"
+    },
+    {
+      "0": "Bathroom_Fixture"
+    },
+    {
+      "1": "sink"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "84_toilet": [
+    {
+      "2": "Bathroom"
+    },
+    {
+      "0": "Bathroom_Fixture"
+    },
+    {
+      "2": "toilet"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "73_shower-stall": [
+    {
+      "2": "Bathroom"
+    },
+    {
+      "0": "Bathroom_Fixture"
+    },
+    {
+      "3": "shower-stall"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "39_faucet": [
+    {
+      "2": "Bathroom"
+    },
+    {
+      "0": "Bathroom_Fixture"
+    },
+    {
+      "4": "faucet"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "86_towel": [
+    {
+      "2": "Bathroom"
+    },
+    {
+      "1": "Bathroom_Textile"
+    },
+    {
+      "0": "towel"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "85_toothbrush": [
+    {
+      "2": "Bathroom"
+    },
+    {
+      "1": "Bathroom_Textile"
+    },
+    {
+      "1": "toothbrush"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "52_monitor": [
+    {
+      "3": "Electronics"
+    },
+    {
+      "0": "Screen_Device"
+    },
+    {
+      "0": "monitor"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "87_tv-screen": [
+    {
+      "3": "Electronics"
+    },
+    {
+      "0": "Screen_Device"
+    },
+    {
+      "1": "tv-screen"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "48_laptop": [
+    {
+      "3": "Electronics"
+    },
+    {
+      "0": "Screen_Device"
+    },
+    {
+      "2": "laptop"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "82_tablet": [
+    {
+      "3": "Electronics"
+    },
+    {
+      "0": "Screen_Device"
+    },
+    {
+      "3": "tablet"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "36_desktop-computer": [
+    {
+      "3": "Electronics"
+    },
+    {
+      "1": "Computer_Accessory"
+    },
+    {
+      "0": "desktop-computer"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "27_computer-keyboard": [
+    {
+      "3": "Electronics"
+    },
+    {
+      "1": "Computer_Accessory"
+    },
+    {
+      "1": "computer-keyboard"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "53_mouse": [
+    {
+      "3": "Electronics"
+    },
+    {
+      "1": "Computer_Accessory"
+    },
+    {
+      "2": "mouse"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "68_remote-control": [
+    {
+      "3": "Electronics"
+    },
+    {
+      "1": "Computer_Accessory"
+    },
+    {
+      "3": "remote-control"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "58_phone": [
+    {
+      "3": "Electronics"
+    },
+    {
+      "1": "Computer_Accessory"
+    },
+    {
+      "4": "phone"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "51_microwave": [
+    {
+      "3": "Electronics"
+    },
+    {
+      "2": "Electrical_Device"
+    },
+    {
+      "0": "microwave"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "75_small-appliance": [
+    {
+      "3": "Electronics"
+    },
+    {
+      "2": "Electrical_Device"
+    },
+    {
+      "1": "small-appliance"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "49_major-appliance": [
+    {
+      "3": "Electronics"
+    },
+    {
+      "2": "Electrical_Device"
+    },
+    {
+      "2": "major-appliance"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "67_refrigerator": [
+    {
+      "3": "Electronics"
+    },
+    {
+      "2": "Electrical_Device"
+    },
+    {
+      "3": "refrigerator"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "32_cooktop": [
+    {
+      "3": "Electronics"
+    },
+    {
+      "2": "Electrical_Device"
+    },
+    {
+      "4": "cooktop"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "42_hair-dryer": [
+    {
+      "3": "Electronics"
+    },
+    {
+      "2": "Electrical_Device"
+    },
+    {
+      "5": "hair-dryer"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "64_plate": [
+    {
+      "4": "Kitchen"
+    },
+    {
+      "0": "Kitchenware"
+    },
+    {
+      "0": "plate"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "16_bowl": [
+    {
+      "4": "Kitchen"
+    },
+    {
+      "0": "Kitchenware"
+    },
+    {
+      "1": "bowl"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "28_cup": [
+    {
+      "4": "Kitchen"
+    },
+    {
+      "0": "Kitchenware"
+    },
+    {
+      "2": "cup"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "14_bottle": [
+    {
+      "4": "Kitchen"
+    },
+    {
+      "0": "Kitchenware"
+    },
+    {
+      "3": "bottle"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "55_pan": [
+    {
+      "4": "Kitchen"
+    },
+    {
+      "0": "Kitchenware"
+    },
+    {
+      "4": "pan"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "65_pot": [
+    {
+      "4": "Kitchen"
+    },
+    {
+      "0": "Kitchenware"
+    },
+    {
+      "5": "pot"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "46_kitchen-utensil": [
+    {
+      "4": "Kitchen"
+    },
+    {
+      "1": "Kitchen_Tool"
+    },
+    {
+      "0": "kitchen-utensil"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "90_utensil-holder": [
+    {
+      "4": "Kitchen"
+    },
+    {
+      "1": "Kitchen_Tool"
+    },
+    {
+      "1": "utensil-holder"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "45_knife-block": [
+    {
+      "4": "Kitchen"
+    },
+    {
+      "1": "Kitchen_Tool"
+    },
+    {
+      "2": "knife-block"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "21_chopping-board": [
+    {
+      "4": "Kitchen"
+    },
+    {
+      "1": "Kitchen_Tool"
+    },
+    {
+      "3": "chopping-board"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "98_rug": [
+    {
+      "5": "Soft_Objects"
+    },
+    {
+      "0": "Flat_Textile"
+    },
+    {
+      "0": "rug"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "50_mat": [
+    {
+      "5": "Soft_Objects"
+    },
+    {
+      "0": "Flat_Textile"
+    },
+    {
+      "1": "mat"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "30_curtain": [
+    {
+      "5": "Soft_Objects"
+    },
+    {
+      "0": "Flat_Textile"
+    },
+    {
+      "2": "curtain"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "12_blinds": [
+    {
+      "5": "Soft_Objects"
+    },
+    {
+      "0": "Flat_Textile"
+    },
+    {
+      "3": "blinds"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "11_blanket": [
+    {
+      "5": "Soft_Objects"
+    },
+    {
+      "0": "Flat_Textile"
+    },
+    {
+      "4": "blanket"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "26_comforter": [
+    {
+      "5": "Soft_Objects"
+    },
+    {
+      "0": "Flat_Textile"
+    },
+    {
+      "5": "comforter"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "81_table-runner": [
+    {
+      "5": "Soft_Objects"
+    },
+    {
+      "0": "Flat_Textile"
+    },
+    {
+      "6": "table-runner"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "61_pillow": [
+    {
+      "5": "Soft_Objects"
+    },
+    {
+      "1": "Soft_Object"
+    },
+    {
+      "0": "pillow"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "29_cushion": [
+    {
+      "5": "Soft_Objects"
+    },
+    {
+      "1": "Soft_Object"
+    },
+    {
+      "1": "cushion"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "23_cloth": [
+    {
+      "5": "Soft_Objects"
+    },
+    {
+      "1": "Soft_Object"
+    },
+    {
+      "2": "cloth"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "24_clothing": [
+    {
+      "5": "Soft_Objects"
+    },
+    {
+      "1": "Soft_Object"
+    },
+    {
+      "3": "clothing"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "101_set-of-clothing": [
+    {
+      "5": "Soft_Objects"
+    },
+    {
+      "1": "Soft_Object"
+    },
+    {
+      "4": "set-of-clothing"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "69_scarf": [
+    {
+      "5": "Soft_Objects"
+    },
+    {
+      "1": "Soft_Object"
+    },
+    {
+      "5": "scarf"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "57_paper-towel": [
+    {
+      "5": "Soft_Objects"
+    },
+    {
+      "2": "Paper_Soft"
+    },
+    {
+      "0": "paper-towel"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "83_tissue-paper": [
+    {
+      "5": "Soft_Objects"
+    },
+    {
+      "2": "Paper_Soft"
+    },
+    {
+      "1": "tissue-paper"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "100_bag": [
+    {
+      "6": "Portable_Objects"
+    },
+    {
+      "0": "Carry_Object"
+    },
+    {
+      "0": "bag"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "1_backpack": [
+    {
+      "6": "Portable_Objects"
+    },
+    {
+      "0": "Carry_Object"
+    },
+    {
+      "1": "backpack"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "41_handbag": [
+    {
+      "6": "Portable_Objects"
+    },
+    {
+      "0": "Carry_Object"
+    },
+    {
+      "2": "handbag"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "13_book": [
+    {
+      "6": "Portable_Objects"
+    },
+    {
+      "1": "Personal_Object"
+    },
+    {
+      "0": "book"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "72_shoe": [
+    {
+      "6": "Portable_Objects"
+    },
+    {
+      "1": "Personal_Object"
+    },
+    {
+      "1": "shoe"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "89_umbrella": [
+    {
+      "6": "Portable_Objects"
+    },
+    {
+      "1": "Personal_Object"
+    },
+    {
+      "2": "umbrella"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "17_camera": [
+    {
+      "6": "Portable_Objects"
+    },
+    {
+      "1": "Personal_Object"
+    },
+    {
+      "3": "camera"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "10_bin": [
+    {
+      "6": "Portable_Objects"
+    },
+    {
+      "2": "Container_Object"
+    },
+    {
+      "0": "bin"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "15_box": [
+    {
+      "6": "Portable_Objects"
+    },
+    {
+      "2": "Container_Object"
+    },
+    {
+      "1": "box"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "3_basket": [
+    {
+      "6": "Portable_Objects"
+    },
+    {
+      "2": "Container_Object"
+    },
+    {
+      "2": "basket"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "59_picture": [
+    {
+      "7": "Decoration"
+    },
+    {
+      "0": "Decor_Object"
+    },
+    {
+      "0": "picture"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "70_sculpture": [
+    {
+      "7": "Decoration"
+    },
+    {
+      "0": "Decor_Object"
+    },
+    {
+      "1": "sculpture"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "91_vase": [
+    {
+      "7": "Decoration"
+    },
+    {
+      "0": "Decor_Object"
+    },
+    {
+      "2": "vase"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "22_clock": [
+    {
+      "7": "Decoration"
+    },
+    {
+      "0": "Decor_Object"
+    },
+    {
+      "3": "clock"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "99_logo": [
+    {
+      "7": "Decoration"
+    },
+    {
+      "0": "Decor_Object"
+    },
+    {
+      "4": "logo"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "19_candle": [
+    {
+      "7": "Decoration"
+    },
+    {
+      "0": "Decor_Object"
+    },
+    {
+      "5": "candle"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "44_indoor-plant": [
+    {
+      "7": "Decoration"
+    },
+    {
+      "1": "Plant_Object"
+    },
+    {
+      "0": "indoor-plant"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "63_plant-stand": [
+    {
+      "7": "Decoration"
+    },
+    {
+      "1": "Plant_Object"
+    },
+    {
+      "1": "plant-stand"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "79_switch": [
+    {
+      "7": "Decoration"
+    },
+    {
+      "2": "Tiny_Object"
+    },
+    {
+      "0": "switch"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "95_wall-plug": [
+    {
+      "7": "Decoration"
+    },
+    {
+      "2": "Tiny_Object"
+    },
+    {
+      "1": "wall-plug"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "25_coaster": [
+    {
+      "7": "Decoration"
+    },
+    {
+      "2": "Tiny_Object"
+    },
+    {
+      "2": "coaster"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "35_desk-organizer": [
+    {
+      "7": "Decoration"
+    },
+    {
+      "2": "Tiny_Object"
+    },
+    {
+      "3": "desk-organizer"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "9_bike": [
+    {
+      "8": "Activity"
+    },
+    {
+      "0": "Activity_Object"
+    },
+    {
+      "0": "bike"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "38_exercise-ball": [
+    {
+      "8": "Activity"
+    },
+    {
+      "0": "Activity_Object"
+    },
+    {
+      "1": "exercise-ball"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "47_lamp": [
+    {
+      "8": "Activity"
+    },
+    {
+      "0": "Activity_Object"
+    },
+    {
+      "2": "lamp"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ],
+  "0_void": [
+    {
+      "9": "Void"
+    },
+    {
+      "0": "Void"
+    },
+    {
+      "0": "void"
+    },
+    {
+      "0": "<END>"
+    },
+    {
+      "0": "<END>"
+    }
+  ]
+}

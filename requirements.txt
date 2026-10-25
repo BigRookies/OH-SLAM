@@ -1,0 +1,27 @@
+# Runtime packages installed after the PyTorch/CUDA environment is available.
+addict==2.4.0
+imageio==2.34.1
+imgviz==1.7.5
+kornia==0.7.2
+matplotlib==3.8.4
+natsort==8.4.0
+numpy==1.26.4
+open3d==0.16.0
+opencv-python==4.9.0.80
+pandas==2.2.2
+Pillow==10.3.0
+plotly==5.22.0
+plyfile==1.0.3
+prettytable==3.10.0
+psutil==5.9.8
+pyquaternion==0.9.9
+pytorch-msssim==1.0.0
+PyYAML==6.0.1
+scikit-learn==1.4.2
+scipy==1.13.0
+torchmetrics==1.4.0
+tqdm==4.65.0
+wandb==0.17.0
+
+# Development and release verification.
+pytest==8.3.3

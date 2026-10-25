@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, cite this repository and the upstream works acknowledged in README.md."
+type: software
+title: "OH-SLAM"
+authors:
+  - family-names: Liu
+    given-names: Yanli
+  - family-names: Huang
+    given-names: Yuyu
+    orcid: "https://orcid.org/0009-0001-2199-6340"
+  - family-names: Zhang
+    given-names: Heng
+  - family-names: Chen
+    given-names: Zhimin
+repository-code: "https://github.com/BigRookies/OH-SLAM"
+url: "https://github.com/BigRookies/OH-SLAM"
+license: Apache-2.0
